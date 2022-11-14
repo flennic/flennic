@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ❄️
 
 My name is Maximilian Pfundstein and I am a software developer, a DevOps Engineer and a data scientist located in Stockholm, Sweden.
 
