@@ -7,5 +7,3 @@ As a software developer I have experience in frontend as well as backend develop
 In general, I enjoy working with computers.
 
 You can find some of my projects and contributions here on GitHub.
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=flennic)
